@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    {{- partial "head.html" . -}}
+  </head>
+  <body>   
+    <section class="container-fluid section0-home">
+    {{- partial "header.html" . -}}
+    {{- partial "sect1intro" . }}
+    </section>
+    {{- block "main" . }}{{- end }}
+    {{- partial "footer.html" . -}}
+    {{- partial "script-foot.html" . -}}
+  </body>
+</html>
