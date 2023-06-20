@@ -34,7 +34,7 @@ draft: false
     <h2>Data Strategy</h2>
     <p>Unlock the true power of data with our expert assistance. Don't let an incomplete or misguided data strategy hinder your business growth. Let us evaluate and optimize your approach for maximum success in the digital era.</p>
     <div class="train-bespoke-space"></div>
-    <h2>Sourced Databases</h2>
+    <h2>Open Source Databases</h2>
     <p>Discover a cost-effective solution for Oracle database customers looking to reduce license costs and migrate to performant open source alternatives. With our expertise and AWS support, we offer a range of open-source databases, including graph, relational, non-relational, time series, in-memory, and document databases. </p>
     <p>Unlock the true value of your data and become a data-driven business by reaching out to us today.</p>
     </div>
