@@ -16,7 +16,7 @@ draft: false
     </div>
 </section> -->
 <!-- <div class="benjhome-space space1home"></div> -->
-<section class="container-fluid section2-home">
+<section class="container-fluid section2-home" style="display:none;">
 	<div class="container d-flex benjhomepersinfowrap ">
 		<div class="col-lg-4 col-md-6 col-sm-12">
 			<img class="benjhome" src="/img/BenjaminAgbalajobi.png" />
