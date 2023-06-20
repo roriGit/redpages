@@ -12,7 +12,7 @@ draft: false
             <h3>Let’s Talk</h3>
             <p>Have some big idea or brand to develop and need help? Then reach out we'd love to hear about your project  and provide help</p>
             <h2>Email</h2>
-            <p><a href="mailto:benjamin@redpagesconsulting.com">benjamin@redpagesconsulting.com</a></p>
+            <p><a href="mailto:hello@redpagesconsulting.com">hello@redpagesconsulting.com</a></p>
             <h2>Socials</h2>
             <p><a href="">Instagram</a><br/>
             <a href="">Twitter</a><br/>
