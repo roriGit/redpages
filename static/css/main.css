@@ -246,6 +246,14 @@ h2{
 .Contact form{
 	margin-bottom: 50px;
 }
+.actionbtns a{
+	background:#db1f29;
+	text-decoration:none;
+	text-transform:uppercase;
+	padding:10px 15px;
+	width:100%;
+	max-width:200px;
+}
 @media(max-width:1400px) {
 /* .Services section {
 	min-height: 100vh;
