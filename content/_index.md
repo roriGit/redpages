@@ -12,7 +12,7 @@ draft: false
         <div class="col-lg-9 col-md-9 col-sm-12 col-xs-12 pt-3 pb-3">
         	<p>We work with clients to create sustainable growth by identifying gaps between customer needs and your offerings. We develop bridging products and services aimed at delivering a holistic customer experience.</p>
 <p>Our comprehensive architecture assessment examines the current state of your business, enabling us to identify digital capabilities necessary to strategically guide you towards a successful transformation aligned with your business objectives. Trust us to tackle your digital transformation challenges, optimizing enterprise and IT architecture for efficient delivery and business success.</p>
-<button type="button" class="btn btn-primary btn-lg">Large button</button>
+<button type="button" class="btn btn-primary btn-lg">Lets get chatting.</button>
         </div>
     </div>
 </section> 
