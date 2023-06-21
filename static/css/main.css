@@ -246,13 +246,15 @@ h2{
 .Contact form{
 	margin-bottom: 50px;
 }
-.actionbtns a{
-	background:#db1f29;
-	text-decoration:none;
-	text-transform:uppercase;
-	padding:10px 15px;
-	width:100%;
-	max-width:200px;
+.actionbtns a {
+	background: #db1f29;
+	text-decoration: none;
+	text-transform: uppercase;
+	padding: 20px 15px 20px;
+	width: 90%;
+	display: block;
+	line-height: 20px;
+	font-weight: bold;
 }
 @media(max-width:1400px) {
 /* .Services section {
