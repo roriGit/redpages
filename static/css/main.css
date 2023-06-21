@@ -55,7 +55,7 @@ h2 {
 	background: transparent !important;
 }
 .section1-home {
-	height: 100vh;
+	height:calc(100vh - 90px);
 	justify-content: center;
 	align-items: center;
 	display: flex;
