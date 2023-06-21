@@ -246,6 +246,9 @@ h2{
 .Contact form{
 	margin-bottom: 50px;
 }
+.actionbtns{
+margin-top:15px;
+}
 .actionbtns a {
 	background: #db1f29;
 	text-decoration: none;
