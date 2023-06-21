@@ -3,7 +3,7 @@ title: "Contact"
 date: 2023-06-16T14:21:47+02:00
 draft: false
 ---
-<div class="container section1-home">
+<div class="container section1-home" style="margin: 60px auto; height: 100vh;">
     <div class="row wrap-logovert-intro d-flex flex-wrap">
         <div class="col-lg-3 col-md-3 col-sm-12 col-12 d-flex align-items-center">
             <img class="redpages-logo-vert" src="/img/redpages-logo-vert.png" />
