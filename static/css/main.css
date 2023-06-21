@@ -259,6 +259,31 @@ margin-top:15px;
 	line-height: 20px;
 	font-weight: bold;
 }
+footer{
+	background: #0f0f0f;
+}
+footer p {
+	margin-top: 0;
+	margin-bottom: 0rem;
+	color: rgba(255, 255, 255, 0.5);
+	font-size: 15px;
+}
+footer p a{
+	text-decoration: none;
+	color: rgba(255,255,255,0.8);
+}
+footer h6{
+	color: #db1f29;
+}
+footer i{
+	color: #db1f29;
+}
+.fa-skype::before {
+	content: "\f17e";
+	position: absolute;
+	margin-top: -23px;
+	font-size: 30px;
+}
 @media(max-width:1400px) {
 /* .Services section {
 	min-height: 100vh;
