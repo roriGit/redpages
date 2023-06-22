@@ -267,6 +267,7 @@ footer p {
 	margin-bottom: 0rem;
 	color: rgba(255, 255, 255, 0.5);
 	font-size: 15px;
+	text-align:left;
 }
 footer p a{
 	text-decoration: none;
